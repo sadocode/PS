@@ -10,6 +10,7 @@
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/Level1/81301)
+- [(86051) 없는 숫자 더하기](https://github.com/sadocode/PS/tree/main/Level1/86051)
 
 ## Tags
 
@@ -23,6 +24,8 @@
 ## 2022
 - [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/Level2/42888)
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/Level1/81301)
+- [(86051) 없는 숫자 더하기](https://github.com/sadocode/PS/tree/main/Level1/86051)
+
 
 ---
 
