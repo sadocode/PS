@@ -9,7 +9,7 @@
 - [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/Level2/42888)
 - [(62048) 멀쩡한 사각형](https://github.com/sadocode/PS/tree/main/Level2/62048)
 - [(42586) 기능개발](https://github.com/sadocode/PS/tree/main/Level2/42586)
-
+- [(42577) 전화번호 목록](https://github.com/sadocode/PS/tree/main/Level2/42577)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/Level1/81301)
@@ -28,6 +28,8 @@
 ### 정수론
 - [(62048) 멀쩡한 사각형](https://github.com/sadocode/PS/tree/main/Level2/62048)
 
+### 해시
+- [(42577) 전화번호 목록](https://github.com/sadocode/PS/tree/main/Level2/42577)
 
 ## 2022
 - [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/Level2/42888)
@@ -35,6 +37,7 @@
 - [(86051) 없는 숫자 더하기](https://github.com/sadocode/PS/tree/main/Level1/86051)
 - [(62048) 멀쩡한 사각형](://github.com/sadocode/PS/tree/main/Level2/42586)
 - [(42586) 기능개발](https://github.com/sadocode/PS/tree/main/Level2/42586)
+- [(42577) 전화번호 목록](https://github.com/sadocode/PS/tree/main/Level2/42577)
 
 
 ---
