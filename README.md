@@ -19,6 +19,7 @@
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/Level1/81301)
 - [(86051) 없는 숫자 더하기](https://github.com/sadocode/PS/tree/main/Level1/86051)
+- [(42862) 체육복](https://github.com/sadocode/PS/tree/main/Level1/42862)
 
 ## Tags
 
@@ -43,6 +44,7 @@
 
 ### 그리드
 - [(12979) 기지국 설치](https://github.com/sadocode/PS/tree/main/Level3/12979)
+- [(42862) 체육복](https://github.com/sadocode/PS/tree/main/Level1/42862)
 
 
 ## 2022
@@ -54,6 +56,8 @@
 - [(42577) 전화번호 목록](https://github.com/sadocode/PS/tree/main/Level2/42577)
 - [(42578) 위장](https://github.com/sadocode/PS/tree/main/Level2/42578)
 - [(42584) 주식가격](https://github.com/sadocode/PS/tree/main/Level2/42584)
+- [(12979) 기지국 설치](https://github.com/sadocode/PS/tree/main/Level3/12979)
+- [(42862) 체육복](https://github.com/sadocode/PS/tree/main/Level1/42862)
 
 ---
 
