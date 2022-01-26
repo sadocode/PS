@@ -5,6 +5,9 @@
 
 ## LEVEL
 
+### Level 3
+- [(12979) 기지국 설치](https://github.com/sadocode/PS/tree/main/Level3/12979)
+
 ### Level 2
 - [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/Level2/42888)
 - [(62048) 멀쩡한 사각형](https://github.com/sadocode/PS/tree/main/Level2/62048)
@@ -36,6 +39,10 @@
 ### 해시
 - [(42577) 전화번호 목록](https://github.com/sadocode/PS/tree/main/Level2/42577)
 - [(42578) 위장](https://github.com/sadocode/PS/tree/main/Level2/42578)
+
+
+### 그리드
+- [(12979) 기지국 설치](https://github.com/sadocode/PS/tree/main/Level3/12979)
 
 
 ## 2022
