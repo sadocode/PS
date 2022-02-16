@@ -1,66 +1,73 @@
 # Problem Solving
 
-- programmers에서의 문제풀이
+- programmers, leetcode에서의 문제풀이
 - Level(난이도), 관련 Tags로 구성
 
 ## LEVEL
 
 ### Level 3
-- [(12979) 기지국 설치](https://github.com/sadocode/PS/tree/main/Level3/12979)
+- [(12979) 기지국 설치](https://github.com/sadocode/PS/tree/main/programmers/Level3/12979)
 
 ### Level 2
-- [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/Level2/42888)
-- [(62048) 멀쩡한 사각형](https://github.com/sadocode/PS/tree/main/Level2/62048)
-- [(42586) 기능개발](https://github.com/sadocode/PS/tree/main/Level2/42586)
-- [(42577) 전화번호 목록](https://github.com/sadocode/PS/tree/main/Level2/42577)
-- [(42578) 위장](https://github.com/sadocode/PS/tree/main/Level2/42578)
-- [(42584) 주식가격](https://github.com/sadocode/PS/tree/main/Level2/42584)
-- [(42883) 큰 수 만들기](https://github.com/sadocode/PS/tree/main/Level2/42883)
+- [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/programmers/Level2/42888)
+- [(62048) 멀쩡한 사각형](https://github.com/sadocode/PS/tree/main/programmers/Level2/62048)
+- [(42586) 기능개발](https://github.com/sadocode/PS/tree/main/programmers/Level2/42586)
+- [(42577) 전화번호 목록](https://github.com/sadocode/PS/tree/main/programmers/Level2/42577)
+- [(42578) 위장](https://github.com/sadocode/PS/tree/main/programmers/Level2/42578)
+- [(42584) 주식가격](https://github.com/sadocode/PS/tree/main/programmers/Level2/42584)
+- ~~[(42883) 큰 수 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/42883)~~
 
 ### Level 1
-- [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/Level1/81301)
-- [(86051) 없는 숫자 더하기](https://github.com/sadocode/PS/tree/main/Level1/86051)
-- [(42862) 체육복](https://github.com/sadocode/PS/tree/main/Level1/42862)
+- [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
+- [(86051) 없는 숫자 더하기](https://github.com/sadocode/PS/tree/main/programmers/Level1/86051)
+- [(42862) 체육복](https://github.com/sadocode/PS/tree/main/programmers/Level1/42862)
+
+### HARD
+
+### MEDIUM
+
+### EASY
+
 
 ## Tags
 
 ### 문자열 처리
-- [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/Level2/42888)
-- [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/Level1/81301)
+- [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/programmers/Level2/42888)
+- [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
 
 ### 배열
-- [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/Level2/42888)
-- [(42586) 기능개발](https://github.com/sadocode/PS/tree/main/Level2/42586)
-- [(42584) 주식가격](https://github.com/sadocode/PS/tree/main/Level2/42584)
+- [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/programmers/Level2/42888)
+- [(42586) 기능개발](https://github.com/sadocode/PS/tree/main/programmers/Level2/42586)
+- [(42584) 주식가격](https://github.com/sadocode/PS/tree/main/programmers/Level2/42584)
 
 
 ### 정수론
-- [(62048) 멀쩡한 사각형](https://github.com/sadocode/PS/tree/main/Level2/62048)
+- [(62048) 멀쩡한 사각형](https://github.com/sadocode/PS/tree/main/programmers/Level2/62048)
 
 
 ### 해시
-- [(42577) 전화번호 목록](https://github.com/sadocode/PS/tree/main/Level2/42577)
-- [(42578) 위장](https://github.com/sadocode/PS/tree/main/Level2/42578)
+- [(42577) 전화번호 목록](https://github.com/sadocode/PS/tree/main/programmers/Level2/42577)
+- [(42578) 위장](https://github.com/sadocode/PS/tree/main/programmers/Level2/42578)
 
 
 ### 그리드
-- [(12979) 기지국 설치](https://github.com/sadocode/PS/tree/main/Level3/12979)
-- [(42862) 체육복](https://github.com/sadocode/PS/tree/main/Level1/42862)
-- [(42883) 큰 수 만들기](https://github.com/sadocode/PS/tree/main/Level2/42883)
+- [(12979) 기지국 설치](https://github.com/sadocode/PS/tree/main/programmers/Level3/12979)
+- [(42862) 체육복](https://github.com/sadocode/PS/tree/main/programmers/Level1/42862)
+- ~~[(42883) 큰 수 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/42883)~~
 
 
 ## 2022
-- [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/Level2/42888)
-- [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/Level1/81301)
-- [(86051) 없는 숫자 더하기](https://github.com/sadocode/PS/tree/main/Level1/86051)
-- [(62048) 멀쩡한 사각형](://github.com/sadocode/PS/tree/main/Level2/42586)
-- [(42586) 기능개발](https://github.com/sadocode/PS/tree/main/Level2/42586)
-- [(42577) 전화번호 목록](https://github.com/sadocode/PS/tree/main/Level2/42577)
-- [(42578) 위장](https://github.com/sadocode/PS/tree/main/Level2/42578)
-- [(42584) 주식가격](https://github.com/sadocode/PS/tree/main/Level2/42584)
-- [(12979) 기지국 설치](https://github.com/sadocode/PS/tree/main/Level3/12979)
-- [(42862) 체육복](https://github.com/sadocode/PS/tree/main/Level1/42862)
-- [(42883) 큰 수 만들기](https://github.com/sadocode/PS/tree/main/Level2/42883)
+- [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/programmers/Level2/42888)
+- [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/programmers/main/Level1/81301)
+- [(86051) 없는 숫자 더하기](https://github.com/sadocode/PS/tree/main/programmers/Level1/86051)
+- [(62048) 멀쩡한 사각형](://github.com/sadocode/PS/tree/main/programmers/Level2/42586)
+- [(42586) 기능개발](https://github.com/sadocode/PS/tree/main/programmers/Level2/42586)
+- [(42577) 전화번호 목록](https://github.com/sadocode/PS/tree/main/programmers/Level2/42577)
+- [(42578) 위장](https://github.com/sadocode/PS/tree/main/programmers/Level2/42578)
+- [(42584) 주식가격](https://github.com/sadocode/PS/tree/main/programmers/Level2/42584)
+- [(12979) 기지국 설치](https://github.com/sadocode/PS/tree/main/programmers/Level3/12979)
+- [(42862) 체육복](https://github.com/sadocode/PS/tree/main/programmers/Level1/42862)
+- ~~[(42883) 큰 수 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/42883)~~
 
 ---
 
