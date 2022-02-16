@@ -1,6 +1,6 @@
 # Problem Solving
 
-- programmers, leetcode에서의 문제풀이
+- programmers, leetCode에서의 문제풀이
 - Level(난이도), 관련 Tags로 구성
 
 ## LEVEL
@@ -27,7 +27,7 @@
 ### MEDIUM
 
 ### EASY
-
+- [valid-parentheses](https://github.com/sadocode/PS/tree/main/leetCode/easy/valid-parentheses)
 
 ## Tags
 
@@ -55,6 +55,8 @@
 - [(42862) 체육복](https://github.com/sadocode/PS/tree/main/programmers/Level1/42862)
 - ~~[(42883) 큰 수 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/42883)~~
 
+### 스택, 큐
+- [valid-parentheses](https://github.com/sadocode/PS/tree/main/leetCode/easy/valid-parentheses)
 
 ## 2022
 - [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/programmers/Level2/42888)
@@ -68,6 +70,7 @@
 - [(12979) 기지국 설치](https://github.com/sadocode/PS/tree/main/programmers/Level3/12979)
 - [(42862) 체육복](https://github.com/sadocode/PS/tree/main/programmers/Level1/42862)
 - ~~[(42883) 큰 수 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/42883)~~
+- [valid-parentheses](https://github.com/sadocode/PS/tree/main/leetCode/easy/valid-parentheses)
 
 ---
 
