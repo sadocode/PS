@@ -16,11 +16,15 @@
 - [(42578) 위장](https://github.com/sadocode/PS/tree/main/programmers/Level2/42578)
 - [(42584) 주식가격](https://github.com/sadocode/PS/tree/main/programmers/Level2/42584)
 - ~~[(42883) 큰 수 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/42883)~~
+- [(42587) 프린터](https://github.com/sadocode/PS/tree/main/programmers/Level2/42587)
+
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
 - [(86051) 없는 숫자 더하기](https://github.com/sadocode/PS/tree/main/programmers/Level1/86051)
 - [(42862) 체육복](https://github.com/sadocode/PS/tree/main/programmers/Level1/42862)
+
+---
 
 ### HARD
 
@@ -57,6 +61,7 @@
 
 ### 스택, 큐
 - [valid-parentheses](https://github.com/sadocode/PS/tree/main/leetCode/easy/valid-parentheses)
+- [(42587) 프린터](https://github.com/sadocode/PS/tree/main/programmers/Level2/42587)
 
 ## 2022
 - [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/programmers/Level2/42888)
@@ -71,6 +76,7 @@
 - [(42862) 체육복](https://github.com/sadocode/PS/tree/main/programmers/Level1/42862)
 - ~~[(42883) 큰 수 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/42883)~~
 - [valid-parentheses](https://github.com/sadocode/PS/tree/main/leetCode/easy/valid-parentheses)
+- [(42587) 프린터](https://github.com/sadocode/PS/tree/main/programmers/Level2/42587)
 
 ---
 
