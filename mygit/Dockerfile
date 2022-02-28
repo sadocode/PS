@@ -14,6 +14,10 @@ ENV LC_ALL ko_KR.utf8
 COPY ./yum.conf /etc/yum.conf
 RUN yum -y reinstall glibc-common
 
+# volume setting
+RUN mkdir /home/volume
+VOLUME ["/home/volume"]
+
 CMD ["/bin/bash"]
 
 # open container port
