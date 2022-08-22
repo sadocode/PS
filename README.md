@@ -17,6 +17,7 @@
 - [(42584) 주식가격](https://github.com/sadocode/PS/tree/main/programmers/Level2/42584)
 - ~~[(42883) 큰 수 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/42883)~~
 - [(42587) 프린터](https://github.com/sadocode/PS/tree/main/programmers/Level2/42587)
+- [(12909) 올바른 괄호](https://github.com/sadocode/PS/tree/main/programmers/Level2/12909)
 
 
 ### Level 1
@@ -66,6 +67,7 @@
 ### 스택, 큐
 - [valid-parentheses](https://github.com/sadocode/PS/tree/main/leetCode/easy/valid-parentheses)
 - [(42587) 프린터](https://github.com/sadocode/PS/tree/main/programmers/Level2/42587)
+- [(12909) 올바른 괄호](https://github.com/sadocode/PS/tree/main/programmers/Level2/12909)
 
 ## 2022
 - [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/programmers/Level2/42888)
