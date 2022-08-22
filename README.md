@@ -23,7 +23,9 @@
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
 - [(86051) 없는 숫자 더하기](https://github.com/sadocode/PS/tree/main/programmers/Level1/86051)
 - [(42862) 체육복](https://github.com/sadocode/PS/tree/main/programmers/Level1/42862)
-
+- [(12906) 같은 숫자는 싫어](https://github.com/sadocode/PS/tree/main/programmers/Level1/12906)
+- [(118666) 성격 유형 검사하기](https://github.com/sadocode/PS/tree/main/programmers/Level1/118666)
+ 
 ---
 
 ### HARD
@@ -43,6 +45,8 @@
 - [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/programmers/Level2/42888)
 - [(42586) 기능개발](https://github.com/sadocode/PS/tree/main/programmers/Level2/42586)
 - [(42584) 주식가격](https://github.com/sadocode/PS/tree/main/programmers/Level2/42584)
+- [(12906) 같은 숫자는 싫어](https://github.com/sadocode/PS/tree/main/programmers/Level1/12906)
+- [(118666) 성격 유형 검사하기](https://github.com/sadocode/PS/tree/main/programmers/Level1/118666)
 
 
 ### 정수론
@@ -77,6 +81,8 @@
 - ~~[(42883) 큰 수 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/42883)~~
 - [valid-parentheses](https://github.com/sadocode/PS/tree/main/leetCode/easy/valid-parentheses)
 - [(42587) 프린터](https://github.com/sadocode/PS/tree/main/programmers/Level2/42587)
+- [(12906) 같은 숫자는 싫어](https://github.com/sadocode/PS/tree/main/programmers/Level1/12906)
+- [(118666) 성격 유형 검사하기](https://github.com/sadocode/PS/tree/main/programmers/Level1/118666)
 
 ---
 
