@@ -20,6 +20,7 @@
 - [(12909) 올바른 괄호](https://github.com/sadocode/PS/tree/main/programmers/Level2/12909)
 - [(12981) 영어 끝말잇기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12981)
 - [(12939) 최댓값과 최솟값](https://github.com/sadocode/PS/tree/main/programmers/Level2/12939)
+- [(12973) 짝지어 제거하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12973)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -69,6 +70,7 @@
 - [valid-parentheses](https://github.com/sadocode/PS/tree/main/leetCode/easy/valid-parentheses)
 - [(42587) 프린터](https://github.com/sadocode/PS/tree/main/programmers/Level2/42587)
 - [(12909) 올바른 괄호](https://github.com/sadocode/PS/tree/main/programmers/Level2/12909)
+- [(12973) 짝지어 제거하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12973)
 
 ## 2022
 - [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/programmers/Level2/42888)
@@ -88,6 +90,7 @@
 - [(118666) 성격 유형 검사하기](https://github.com/sadocode/PS/tree/main/programmers/Level1/118666)
 - [(12981) 영어 끝말잇기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12981)
 - [(12939) 최댓값과 최솟값](https://github.com/sadocode/PS/tree/main/programmers/Level2/12939)
+- [(12973) 짝지어 제거하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12973)
 
 
 ---
