@@ -21,7 +21,7 @@
 - [(12981) 영어 끝말잇기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12981)
 - [(12939) 최댓값과 최솟값](https://github.com/sadocode/PS/tree/main/programmers/Level2/12939)
 - [(12973) 짝지어 제거하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12973)
-- [(64065) 튜플]](https://github.com/sadocode/PS/tree/main/programmers/Level2/64065)
+- [(64065) 튜플](https://github.com/sadocode/PS/tree/main/programmers/Level2/64065)
 
 
 ### Level 1
@@ -78,7 +78,7 @@
 - [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/programmers/Level2/42888)
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/programmers/main/Level1/81301)
 - [(86051) 없는 숫자 더하기](https://github.com/sadocode/PS/tree/main/programmers/Level1/86051)
-- [(62048) 멀쩡한 사각형](://github.com/sadocode/PS/tree/main/programmers/Level2/42586)
+- [(62048) 멀쩡한 사각형](https://github.com/sadocode/PS/tree/main/programmers/Level2/42586)
 - [(42586) 기능개발](https://github.com/sadocode/PS/tree/main/programmers/Level2/42586)
 - [(42577) 전화번호 목록](https://github.com/sadocode/PS/tree/main/programmers/Level2/42577)
 - [(42578) 위장](https://github.com/sadocode/PS/tree/main/programmers/Level2/42578)
@@ -93,7 +93,7 @@
 - [(12981) 영어 끝말잇기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12981)
 - [(12939) 최댓값과 최솟값](https://github.com/sadocode/PS/tree/main/programmers/Level2/12939)
 - [(12973) 짝지어 제거하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12973)
-- [(64065) 튜플]](https://github.com/sadocode/PS/tree/main/programmers/Level2/64065)
+- [(64065) 튜플](https://github.com/sadocode/PS/tree/main/programmers/Level2/64065)
 
 ---
 
