@@ -21,6 +21,8 @@
 - [(12981) 영어 끝말잇기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12981)
 - [(12939) 최댓값과 최솟값](https://github.com/sadocode/PS/tree/main/programmers/Level2/12939)
 - [(12973) 짝지어 제거하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12973)
+- [(64065) 튜플]](https://github.com/sadocode/PS/tree/main/programmers/Level2/64065)
+
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -91,7 +93,7 @@
 - [(12981) 영어 끝말잇기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12981)
 - [(12939) 최댓값과 최솟값](https://github.com/sadocode/PS/tree/main/programmers/Level2/12939)
 - [(12973) 짝지어 제거하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12973)
-
+- [(64065) 튜플]](https://github.com/sadocode/PS/tree/main/programmers/Level2/64065)
 
 ---
 
