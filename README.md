@@ -23,6 +23,7 @@
 - [(12973) 짝지어 제거하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12973)
 - [(64065) 튜플](https://github.com/sadocode/PS/tree/main/programmers/Level2/64065)
 - [(42747) H-Index](https://github.com/sadocode/PS/tree/main/programmers/Level2/42747)
+- [(76502) 괄호 회전하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/76502)
 
 
 ### Level 1
@@ -74,6 +75,7 @@
 - [(42587) 프린터](https://github.com/sadocode/PS/tree/main/programmers/Level2/42587)
 - [(12909) 올바른 괄호](https://github.com/sadocode/PS/tree/main/programmers/Level2/12909)
 - [(12973) 짝지어 제거하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12973)
+- [(76502) 괄호 회전하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/76502)
 
 ## 2022
 - [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/programmers/Level2/42888)
@@ -96,6 +98,7 @@
 - [(12973) 짝지어 제거하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12973)
 - [(64065) 튜플](https://github.com/sadocode/PS/tree/main/programmers/Level2/64065)
 - [(42747) H-Index](https://github.com/sadocode/PS/tree/main/programmers/Level2/42747)
+- [(76502) 괄호 회전하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/76502)
 
 ---
 
