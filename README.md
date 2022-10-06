@@ -34,7 +34,8 @@
 - [(42862) 체육복](https://github.com/sadocode/PS/tree/main/programmers/Level1/42862)
 - [(12906) 같은 숫자는 싫어](https://github.com/sadocode/PS/tree/main/programmers/Level1/12906)
 - [(118666) 성격 유형 검사하기](https://github.com/sadocode/PS/tree/main/programmers/Level1/118666)
- 
+- [(86491) 최소직사각형](https://github.com/sadocode/PS/tree/main/programmers/Level1/86491) 
+
 ---
 
 ### HARD
@@ -109,6 +110,7 @@
 - [(76502) 괄호 회전하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/76502)
 - [(12914) 멀리 뛰기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12914)
 - [(12911) 다음 큰 숫자](https://github.com/sadocode/PS/tree/main/programmers/Level2/12911)
+- [(86491) 최소직사각형](https://github.com/sadocode/PS/tree/main/programmers/Level1/86491)
 
 ---
 
