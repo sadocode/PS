@@ -27,6 +27,7 @@
 - [(12914) 멀리 뛰기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12914)
 - [(12911) 다음 큰 숫자](https://github.com/sadocode/PS/tree/main/programmers/Level2/12911)
 - [(77885) 2개 이하로 다른 비트](https://github.com/sadocode/PS/tree/main/programmers/Level2/77885)
+- [(49993) 스킬트리](https://github.com/sadocode/PS/tree/main/programmers/Level2/49993)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -115,6 +116,7 @@
 - [(12911) 다음 큰 숫자](https://github.com/sadocode/PS/tree/main/programmers/Level2/12911)
 - [(86491) 최소직사각형](https://github.com/sadocode/PS/tree/main/programmers/Level1/86491)
 - [(77885) 2개 이하로 다른 비트](https://github.com/sadocode/PS/tree/main/programmers/Level2/77885)
+- [(49993) 스킬트리](https://github.com/sadocode/PS/tree/main/programmers/Level2/49993)
 
 ---
 
