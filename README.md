@@ -28,6 +28,8 @@
 - [(12911) 다음 큰 숫자](https://github.com/sadocode/PS/tree/main/programmers/Level2/12911)
 - [(77885) 2개 이하로 다른 비트](https://github.com/sadocode/PS/tree/main/programmers/Level2/77885)
 - [(49993) 스킬트리](https://github.com/sadocode/PS/tree/main/programmers/Level2/49993)
+- [(17680) [1차] 캐시](https://github.com/sadocode/PS/tree/main/programmers/Level2/17680)
+
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -117,6 +119,7 @@
 - [(86491) 최소직사각형](https://github.com/sadocode/PS/tree/main/programmers/Level1/86491)
 - [(77885) 2개 이하로 다른 비트](https://github.com/sadocode/PS/tree/main/programmers/Level2/77885)
 - [(49993) 스킬트리](https://github.com/sadocode/PS/tree/main/programmers/Level2/49993)
+- [(17680) [1차] 캐시](https://github.com/sadocode/PS/tree/main/programmers/Level2/17680)
 
 ---
 
