@@ -30,6 +30,8 @@
 - [(49993) 스킬트리](https://github.com/sadocode/PS/tree/main/programmers/Level2/49993)
 - [(17680) [1차] 캐시](https://github.com/sadocode/PS/tree/main/programmers/Level2/17680)
 - [(92341) 주차 요금 계산](https://github.com/sadocode/PS/tree/main/programmers/Level2/92341)
+- [(12941) 최솟값 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12941)
+
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -60,7 +62,7 @@
 - [(42584) 주식가격](https://github.com/sadocode/PS/tree/main/programmers/Level2/42584)
 - [(12906) 같은 숫자는 싫어](https://github.com/sadocode/PS/tree/main/programmers/Level1/12906)
 - [(118666) 성격 유형 검사하기](https://github.com/sadocode/PS/tree/main/programmers/Level1/118666)
-
+- [(12941) 최솟값 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12941)
 
 ### 정수론
 - [(62048) 멀쩡한 사각형](https://github.com/sadocode/PS/tree/main/programmers/Level2/62048)
@@ -122,6 +124,7 @@
 - [(49993) 스킬트리](https://github.com/sadocode/PS/tree/main/programmers/Level2/49993)
 - [(17680) [1차] 캐시](https://github.com/sadocode/PS/tree/main/programmers/Level2/17680)
 - [(92341) 주차 요금 계산](https://github.com/sadocode/PS/tree/main/programmers/Level2/92341)
+- [(12941) 최솟값 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12941)
 
 ---
 
