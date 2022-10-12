@@ -3,7 +3,7 @@
 - programmers, leetCode에서의 문제풀이
 - Level(난이도), 관련 Tags로 구성
 
-## LEVEL
+## Programmers
 
 ### Level 3
 - [(12979) 기지국 설치](https://github.com/sadocode/PS/tree/main/programmers/Level3/12979)
@@ -43,12 +43,16 @@
 
 ---
 
+## leetCode
+
 ### HARD
 
 ### MEDIUM
 
 ### EASY
 - [valid-parentheses](https://github.com/sadocode/PS/tree/main/leetCode/easy/valid-parentheses)
+
+---
 
 ## Tags
 
@@ -95,6 +99,8 @@
 ### 비트연산
 - [(77885) 2개 이하로 다른 비트](https://github.com/sadocode/PS/tree/main/programmers/Level2/77885)
 
+---
+
 ## 2022
 - [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/programmers/Level2/42888)
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/programmers/main/Level1/81301)
@@ -133,3 +139,9 @@
 - git commit은 모두 docker image에서 진행.
 - [image 정보](https://github.com/sadocode/PS/tree/main/mygit)
 - [Dockerhub 이미지](https://hub.docker.com/repository/docker/sadocode/my_git)
+
+---
+
+# 공부하면 좋은 내용들
+
+- [Tim Sort](https://d2.naver.com/helloworld/0315536)
