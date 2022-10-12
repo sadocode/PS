@@ -31,6 +31,7 @@
 - [(17680) [1차] 캐시](https://github.com/sadocode/PS/tree/main/programmers/Level2/17680)
 - [(92341) 주차 요금 계산](https://github.com/sadocode/PS/tree/main/programmers/Level2/92341)
 - [(12941) 최솟값 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12941)
+- [(12985) 예상 대진표](https://github.com/sadocode/PS/tree/main/programmers/Level2/12985)
 
 
 ### Level 1
@@ -131,6 +132,7 @@
 - [(17680) [1차] 캐시](https://github.com/sadocode/PS/tree/main/programmers/Level2/17680)
 - [(92341) 주차 요금 계산](https://github.com/sadocode/PS/tree/main/programmers/Level2/92341)
 - [(12941) 최솟값 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12941)
+- [(12985) 예상 대진표](https://github.com/sadocode/PS/tree/main/programmers/Level2/12985)
 
 ---
 
