@@ -32,6 +32,7 @@
 - [(92341) 주차 요금 계산](https://github.com/sadocode/PS/tree/main/programmers/Level2/92341)
 - [(12941) 최솟값 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12941)
 - [(12985) 예상 대진표](https://github.com/sadocode/PS/tree/main/programmers/Level2/12985)
+- [(60058) 괄호 변환](https://github.com/sadocode/PS/tree/main/programmers/Level2/60058)
 
 
 ### Level 1
@@ -92,6 +93,7 @@
 
 ### 재귀
 - [(12914) 멀리 뛰기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12914)
+- [(60058) 괄호 변환](https://github.com/sadocode/PS/tree/main/programmers/Level2/60058)
 
 ### 알아두면 좋은 클래스, 메소드
 - [(12911) 다음 큰 숫자](https://github.com/sadocode/PS/tree/main/programmers/Level2/12911)
@@ -133,6 +135,7 @@
 - [(92341) 주차 요금 계산](https://github.com/sadocode/PS/tree/main/programmers/Level2/92341)
 - [(12941) 최솟값 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12941)
 - [(12985) 예상 대진표](https://github.com/sadocode/PS/tree/main/programmers/Level2/12985)
+- [(60058) 괄호 변환](https://github.com/sadocode/PS/tree/main/programmers/Level2/60058)
 
 ---
 
