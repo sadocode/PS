@@ -36,6 +36,7 @@
 - [(12949) 행렬의 곱셈](https://github.com/sadocode/PS/tree/main/programmers/Level2/12949)
 - [(12980) 점프와 순간 이동](https://github.com/sadocode/PS/tree/main/programmers/Level2/12980)
 - [(12924) 숫자의 표현](https://github.com/sadocode/PS/tree/main/programmers/Level2/12924)
+- [(12951) JadenCase 문자열 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12951)
 
 
 ### Level 1
@@ -142,6 +143,7 @@
 - [(12949) 행렬의 곱셈](https://github.com/sadocode/PS/tree/main/programmers/Level2/12949)
 - [(12980) 점프와 순간 이동](https://github.com/sadocode/PS/tree/main/programmers/Level2/12980)
 - [(12924) 숫자의 표현](https://github.com/sadocode/PS/tree/main/programmers/Level2/12924)
+- [(12951) JadenCase 문자열 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12951)
 
 ---
 
