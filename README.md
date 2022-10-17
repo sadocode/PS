@@ -34,6 +34,8 @@
 - [(12985) 예상 대진표](https://github.com/sadocode/PS/tree/main/programmers/Level2/12985)
 - [(60058) 괄호 변환](https://github.com/sadocode/PS/tree/main/programmers/Level2/60058)
 - [(12949) 행렬의 곱셈](https://github.com/sadocode/PS/tree/main/programmers/Level2/12949)
+- [(12980) 점프와 순간 이동](https://github.com/sadocode/PS/tree/main/programmers/Level2/12980)
+
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -137,7 +139,7 @@
 - [(12985) 예상 대진표](https://github.com/sadocode/PS/tree/main/programmers/Level2/12985)
 - [(60058) 괄호 변환](https://github.com/sadocode/PS/tree/main/programmers/Level2/60058)
 - [(12949) 행렬의 곱셈](https://github.com/sadocode/PS/tree/main/programmers/Level2/12949)
-
+- [(12980) 점프와 순간 이동](https://github.com/sadocode/PS/tree/main/programmers/Level2/12980)
 
 ---
 
