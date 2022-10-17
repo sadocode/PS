@@ -35,6 +35,7 @@
 - [(60058) 괄호 변환](https://github.com/sadocode/PS/tree/main/programmers/Level2/60058)
 - [(12949) 행렬의 곱셈](https://github.com/sadocode/PS/tree/main/programmers/Level2/12949)
 - [(12980) 점프와 순간 이동](https://github.com/sadocode/PS/tree/main/programmers/Level2/12980)
+- [(12924) 숫자의 표현](https://github.com/sadocode/PS/tree/main/programmers/Level2/12924)
 
 
 ### Level 1
@@ -74,7 +75,7 @@
 
 ### 정수론
 - [(62048) 멀쩡한 사각형](https://github.com/sadocode/PS/tree/main/programmers/Level2/62048)
-
+- [(12924) 숫자의 표현](https://github.com/sadocode/PS/tree/main/programmers/Level2/12924)
 
 ### 해시
 - [(42577) 전화번호 목록](https://github.com/sadocode/PS/tree/main/programmers/Level2/42577)
@@ -140,6 +141,7 @@
 - [(60058) 괄호 변환](https://github.com/sadocode/PS/tree/main/programmers/Level2/60058)
 - [(12949) 행렬의 곱셈](https://github.com/sadocode/PS/tree/main/programmers/Level2/12949)
 - [(12980) 점프와 순간 이동](https://github.com/sadocode/PS/tree/main/programmers/Level2/12980)
+- [(12924) 숫자의 표현](https://github.com/sadocode/PS/tree/main/programmers/Level2/12924)
 
 ---
 
