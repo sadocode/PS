@@ -33,7 +33,7 @@
 - [(12941) 최솟값 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12941)
 - [(12985) 예상 대진표](https://github.com/sadocode/PS/tree/main/programmers/Level2/12985)
 - [(60058) 괄호 변환](https://github.com/sadocode/PS/tree/main/programmers/Level2/60058)
-
+- [(12949) 행렬의 곱셈](https://github.com/sadocode/PS/tree/main/programmers/Level2/12949)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -136,6 +136,8 @@
 - [(12941) 최솟값 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12941)
 - [(12985) 예상 대진표](https://github.com/sadocode/PS/tree/main/programmers/Level2/12985)
 - [(60058) 괄호 변환](https://github.com/sadocode/PS/tree/main/programmers/Level2/60058)
+- [(12949) 행렬의 곱셈](https://github.com/sadocode/PS/tree/main/programmers/Level2/12949)
+
 
 ---
 
