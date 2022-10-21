@@ -40,6 +40,7 @@
 - [(12936) 줄 서는 방법](https://github.com/sadocode/PS/tree/main/programmers/Level2/12936)
 - [(12953) N개의 최소공배수](https://github.com/sadocode/PS/tree/main/programmers/Level2/12953)
 - [(12899) 124 나라의 숫자](https://github.com/sadocode/PS/tree/main/programmers/Level2/12899)
+- [(70129) 이진 변환 반복하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/70129)
 
 
 ### Level 1
@@ -150,6 +151,7 @@
 - [(12936) 줄 서는 방법](https://github.com/sadocode/PS/tree/main/programmers/Level2/12936)
 - [(12953) N개의 최소공배수](https://github.com/sadocode/PS/tree/main/programmers/Level2/12953)
 - [(12899) 124 나라의 숫자](https://github.com/sadocode/PS/tree/main/programmers/Level2/12899)
+- [(70129) 이진 변환 반복하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/70129)
 
 ---
 
