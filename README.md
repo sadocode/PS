@@ -42,6 +42,8 @@
 - [(12899) 124 나라의 숫자](https://github.com/sadocode/PS/tree/main/programmers/Level2/12899)
 - [(70129) 이진 변환 반복하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/70129)
 - [(12900) 2 x n 타일링](https://github.com/sadocode/PS/tree/main/programmers/Level2/12900)
+- [(42842) 카펫](https://github.com/sadocode/PS/tree/main/programmers/Level2/42842)
+- [(87390) n^2 배열 자르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/87390)
 
 
 ### Level 1
@@ -154,6 +156,8 @@
 - [(12899) 124 나라의 숫자](https://github.com/sadocode/PS/tree/main/programmers/Level2/12899)
 - [(70129) 이진 변환 반복하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/70129)
 - [(12900) 2 x n 타일링](https://github.com/sadocode/PS/tree/main/programmers/Level2/12900)
+- [(42842) 카펫](https://github.com/sadocode/PS/tree/main/programmers/Level2/42842)
+- [(87390) n^2 배열 자르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/87390)
 
 ---
 
