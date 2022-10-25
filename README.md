@@ -44,6 +44,7 @@
 - [(12900) 2 x n 타일링](https://github.com/sadocode/PS/tree/main/programmers/Level2/12900)
 - [(42842) 카펫](https://github.com/sadocode/PS/tree/main/programmers/Level2/42842)
 - [(87390) n^2 배열 자르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/87390)
+- [(17687) [3차] n진수 게임](https://github.com/sadocode/PS/tree/main/programmers/Level2/17687)
 
 
 ### Level 1
@@ -158,6 +159,7 @@
 - [(12900) 2 x n 타일링](https://github.com/sadocode/PS/tree/main/programmers/Level2/12900)
 - [(42842) 카펫](https://github.com/sadocode/PS/tree/main/programmers/Level2/42842)
 - [(87390) n^2 배열 자르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/87390)
+- [(17687) [3차] n진수 게임](https://github.com/sadocode/PS/tree/main/programmers/Level2/17687)
 
 ---
 
