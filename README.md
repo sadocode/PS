@@ -45,7 +45,7 @@
 - [(42842) 카펫](https://github.com/sadocode/PS/tree/main/programmers/Level2/42842)
 - [(87390) n^2 배열 자르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/87390)
 - [(17687) [3차] n진수 게임](https://github.com/sadocode/PS/tree/main/programmers/Level2/17687)
-
+- [(131127) 할인 행사](https://github.com/sadocode/PS/tree/main/programmers/Level2/131127)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -160,6 +160,7 @@
 - [(42842) 카펫](https://github.com/sadocode/PS/tree/main/programmers/Level2/42842)
 - [(87390) n^2 배열 자르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/87390)
 - [(17687) [3차] n진수 게임](https://github.com/sadocode/PS/tree/main/programmers/Level2/17687)
+- [(131127) 할인 행사](https://github.com/sadocode/PS/tree/main/programmers/Level2/131127)
 
 ---
 
