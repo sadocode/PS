@@ -7,6 +7,8 @@
 
 ### Level 3
 - [(12979) 기지국 설치](https://github.com/sadocode/PS/tree/main/programmers/Level3/12979)
+- [(12987) 숫자 게임](https://github.com/sadocode/PS/tree/main/programmers/Level3/12987)
+
 
 ### Level 2
 - [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/programmers/Level2/42888)
@@ -112,6 +114,7 @@
 ### 알아두면 좋은 클래스, 메소드
 - [(12911) 다음 큰 숫자](https://github.com/sadocode/PS/tree/main/programmers/Level2/12911)
 - [(92341) 주차 요금 계산](https://github.com/sadocode/PS/tree/main/programmers/Level2/92341)
+- [(12987) 숫자 게임](https://github.com/sadocode/PS/tree/main/programmers/Level3/12987)
 
 ### 비트연산
 - [(77885) 2개 이하로 다른 비트](https://github.com/sadocode/PS/tree/main/programmers/Level2/77885)
@@ -164,7 +167,7 @@
 - [(17687) [3차] n진수 게임](https://github.com/sadocode/PS/tree/main/programmers/Level2/17687)
 - [(131127) 할인 행사](https://github.com/sadocode/PS/tree/main/programmers/Level2/131127)
 - [(49994) 방문 길이](https://github.com/sadocode/PS/tree/main/programmers/Level2/49994)
-
+- [(12987) 숫자 게임](https://github.com/sadocode/PS/tree/main/programmers/Level3/12987)
   
 ---
 
