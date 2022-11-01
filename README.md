@@ -49,6 +49,7 @@
 - [(17687) [3차] n진수 게임](https://github.com/sadocode/PS/tree/main/programmers/Level2/17687)
 - [(131127) 할인 행사](https://github.com/sadocode/PS/tree/main/programmers/Level2/131127)
 - [(49994) 방문 길이](https://github.com/sadocode/PS/tree/main/programmers/Level2/49994)
+- [(43165) 타겟 넘버](https://github.com/sadocode/PS/tree/main/programmers/Level2/43165)
 
 
 ### Level 1
@@ -106,6 +107,9 @@
 - [(12909) 올바른 괄호](https://github.com/sadocode/PS/tree/main/programmers/Level2/12909)
 - [(12973) 짝지어 제거하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12973)
 - [(76502) 괄호 회전하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/76502)
+
+### DFS
+- [(43165) 타겟 넘버](https://github.com/sadocode/PS/tree/main/programmers/Level2/43165)
 
 ### 재귀
 - [(12914) 멀리 뛰기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12914)
@@ -168,6 +172,7 @@
 - [(131127) 할인 행사](https://github.com/sadocode/PS/tree/main/programmers/Level2/131127)
 - [(49994) 방문 길이](https://github.com/sadocode/PS/tree/main/programmers/Level2/49994)
 - [(12987) 숫자 게임](https://github.com/sadocode/PS/tree/main/programmers/Level3/12987)
+- [(43165) 타겟 넘버](https://github.com/sadocode/PS/tree/main/programmers/Level2/43165)
   
 ---
 
