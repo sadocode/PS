@@ -50,7 +50,7 @@
 - [(131127) 할인 행사](https://github.com/sadocode/PS/tree/main/programmers/Level2/131127)
 - [(49994) 방문 길이](https://github.com/sadocode/PS/tree/main/programmers/Level2/49994)
 - [(43165) 타겟 넘버](https://github.com/sadocode/PS/tree/main/programmers/Level2/43165)
-
+- [(84512) 모음 사전](https://github.com/sadocode/PS/tree/main/programmers/Level2/84512)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -115,6 +115,9 @@
 - [(12914) 멀리 뛰기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12914)
 - [(60058) 괄호 변환](https://github.com/sadocode/PS/tree/main/programmers/Level2/60058)
 
+### 완전탐색
+- [(84512) 모음 사전](https://github.com/sadocode/PS/tree/main/programmers/Level2/84512)
+
 ### 알아두면 좋은 클래스, 메소드
 - [(12911) 다음 큰 숫자](https://github.com/sadocode/PS/tree/main/programmers/Level2/12911)
 - [(92341) 주차 요금 계산](https://github.com/sadocode/PS/tree/main/programmers/Level2/92341)
@@ -173,6 +176,7 @@
 - [(49994) 방문 길이](https://github.com/sadocode/PS/tree/main/programmers/Level2/49994)
 - [(12987) 숫자 게임](https://github.com/sadocode/PS/tree/main/programmers/Level3/12987)
 - [(43165) 타겟 넘버](https://github.com/sadocode/PS/tree/main/programmers/Level2/43165)
+- [(84512) 모음 사전](https://github.com/sadocode/PS/tree/main/programmers/Level2/84512)
   
 ---
 
