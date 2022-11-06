@@ -8,7 +8,8 @@
 ### Level 3
 - [(12979) 기지국 설치](https://github.com/sadocode/PS/tree/main/programmers/Level3/12979)
 - [(12987) 숫자 게임](https://github.com/sadocode/PS/tree/main/programmers/Level3/12987)
-
+- [(42579) 베스트앨범](https://github.com/sadocode/PS/tree/main/programmers/Level3/42579)
+  
 
 ### Level 2
 - [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/programmers/Level2/42888)
@@ -94,7 +95,7 @@
 ### 해시
 - [(42577) 전화번호 목록](https://github.com/sadocode/PS/tree/main/programmers/Level2/42577)
 - [(42578) 위장](https://github.com/sadocode/PS/tree/main/programmers/Level2/42578)
-
+- [(42579) 베스트앨범](https://github.com/sadocode/PS/tree/main/programmers/Level3/42579)
 
 ### 그리드
 - [(12979) 기지국 설치](https://github.com/sadocode/PS/tree/main/programmers/Level3/12979)
@@ -177,6 +178,7 @@
 - [(12987) 숫자 게임](https://github.com/sadocode/PS/tree/main/programmers/Level3/12987)
 - [(43165) 타겟 넘버](https://github.com/sadocode/PS/tree/main/programmers/Level2/43165)
 - [(84512) 모음 사전](https://github.com/sadocode/PS/tree/main/programmers/Level2/84512)
+- [(42579) 베스트앨범](https://github.com/sadocode/PS/tree/main/programmers/Level3/42579)
   
 ---
 
