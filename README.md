@@ -53,6 +53,8 @@
 - [(43165) 타겟 넘버](https://github.com/sadocode/PS/tree/main/programmers/Level2/43165)
 - [(84512) 모음 사전](https://github.com/sadocode/PS/tree/main/programmers/Level2/84512)
 - [(87946) 피로도](https://github.com/sadocode/PS/tree/main/programmers/Level2/87946)
+- [(42839) 소수 찾기](https://github.com/sadocode/PS/tree/main/programmers/Level2/42839)
+
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -117,6 +119,7 @@
 - [(12914) 멀리 뛰기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12914)
 - [(60058) 괄호 변환](https://github.com/sadocode/PS/tree/main/programmers/Level2/60058)
 - [(87946) 피로도](https://github.com/sadocode/PS/tree/main/programmers/Level2/87946)
+- [(42839) 소수 찾기](https://github.com/sadocode/PS/tree/main/programmers/Level2/42839)
 
 ### 완전탐색
 - [(84512) 모음 사전](https://github.com/sadocode/PS/tree/main/programmers/Level2/84512)
@@ -186,7 +189,8 @@
 - [(42579) 베스트앨범](https://github.com/sadocode/PS/tree/main/programmers/Level3/42579)
 - [(12938) 최고의 집합](https://github.com/sadocode/PS/tree/main/programmers/Level3/12938)
 - [(87946) 피로도](https://github.com/sadocode/PS/tree/main/programmers/Level2/87946)
-    
+- [(42839) 소수 찾기](https://github.com/sadocode/PS/tree/main/programmers/Level2/42839)
+  
 ---
 
 # mygit
