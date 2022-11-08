@@ -54,6 +54,7 @@
 - [(84512) 모음 사전](https://github.com/sadocode/PS/tree/main/programmers/Level2/84512)
 - [(87946) 피로도](https://github.com/sadocode/PS/tree/main/programmers/Level2/87946)
 - [(42839) 소수 찾기](https://github.com/sadocode/PS/tree/main/programmers/Level2/42839)
+- [(131704) 택배상자](https://github.com/sadocode/PS/tree/main/programmers/Level2/131704)
 
 
 ### Level 1
@@ -190,6 +191,7 @@
 - [(12938) 최고의 집합](https://github.com/sadocode/PS/tree/main/programmers/Level3/12938)
 - [(87946) 피로도](https://github.com/sadocode/PS/tree/main/programmers/Level2/87946)
 - [(42839) 소수 찾기](https://github.com/sadocode/PS/tree/main/programmers/Level2/42839)
+- [(131704) 택배상자](https://github.com/sadocode/PS/tree/main/programmers/Level2/131704)
   
 ---
 
