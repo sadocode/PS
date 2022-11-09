@@ -55,6 +55,7 @@
 - [(87946) 피로도](https://github.com/sadocode/PS/tree/main/programmers/Level2/87946)
 - [(42839) 소수 찾기](https://github.com/sadocode/PS/tree/main/programmers/Level2/42839)
 - [(131704) 택배상자](https://github.com/sadocode/PS/tree/main/programmers/Level2/131704)
+- [(77485) 행렬 테두리 회전하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/77485)
 
 
 ### Level 1
@@ -91,6 +92,8 @@
 - [(12906) 같은 숫자는 싫어](https://github.com/sadocode/PS/tree/main/programmers/Level1/12906)
 - [(118666) 성격 유형 검사하기](https://github.com/sadocode/PS/tree/main/programmers/Level1/118666)
 - [(12941) 최솟값 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12941)
+- [(77485) 행렬 테두리 회전하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/77485)
+
 
 ### 정수론
 - [(62048) 멀쩡한 사각형](https://github.com/sadocode/PS/tree/main/programmers/Level2/62048)
@@ -192,6 +195,7 @@
 - [(87946) 피로도](https://github.com/sadocode/PS/tree/main/programmers/Level2/87946)
 - [(42839) 소수 찾기](https://github.com/sadocode/PS/tree/main/programmers/Level2/42839)
 - [(131704) 택배상자](https://github.com/sadocode/PS/tree/main/programmers/Level2/131704)
+- [(77485) 행렬 테두리 회전하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/77485)
   
 ---
 
