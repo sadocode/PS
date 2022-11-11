@@ -11,6 +11,8 @@
 - [(42579) 베스트앨범](https://github.com/sadocode/PS/tree/main/programmers/Level3/42579)
 - [(12938) 최고의 집합](https://github.com/sadocode/PS/tree/main/programmers/Level3/12938)  
 - [(12927) 야근 지수](https://github.com/sadocode/PS/tree/main/programmers/Level3/12927)
+- [(43162) 네트워크](https://github.com/sadocode/PS/tree/main/programmers/Level3/43162)
+
 
 ### Level 2
 - [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/programmers/Level2/42888)
@@ -117,8 +119,9 @@
 - [(12973) 짝지어 제거하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12973)
 - [(76502) 괄호 회전하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/76502)
 
-### DFS
+### DFS, BFS
 - [(43165) 타겟 넘버](https://github.com/sadocode/PS/tree/main/programmers/Level2/43165)
+- [(43162) 네트워크](https://github.com/sadocode/PS/tree/main/programmers/Level3/43162)
 
 ### 재귀
 - [(12914) 멀리 뛰기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12914)
@@ -198,6 +201,7 @@
 - [(131704) 택배상자](https://github.com/sadocode/PS/tree/main/programmers/Level2/131704)
 - [(77485) 행렬 테두리 회전하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/77485)
 - [(12927) 야근 지수](https://github.com/sadocode/PS/tree/main/programmers/Level3/12927)
+- [(43162) 네트워크](https://github.com/sadocode/PS/tree/main/programmers/Level3/43162)
   
 ---
 
