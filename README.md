@@ -13,6 +13,7 @@
 - [(12927) 야근 지수](https://github.com/sadocode/PS/tree/main/programmers/Level3/12927)
 - [(43162) 네트워크](https://github.com/sadocode/PS/tree/main/programmers/Level3/43162)
 - [(43163) 단어 변환](https://github.com/sadocode/PS/tree/main/programmers/Level3/43163)
+- [(49189) 가장 먼 노드](https://github.com/sadocode/PS/tree/main/programmers/Level3/49189)
 
 
 ### Level 2
@@ -124,6 +125,7 @@
 - [(43165) 타겟 넘버](https://github.com/sadocode/PS/tree/main/programmers/Level2/43165)
 - [(43162) 네트워크](https://github.com/sadocode/PS/tree/main/programmers/Level3/43162)
 - [(43163) 단어 변환](https://github.com/sadocode/PS/tree/main/programmers/Level3/43163)
+- [(49189) 가장 먼 노드](https://github.com/sadocode/PS/tree/main/programmers/Level3/49189)
 
 ### 재귀
 - [(12914) 멀리 뛰기](https://github.com/sadocode/PS/tree/main/programmers/Level2/12914)
@@ -205,6 +207,7 @@
 - [(12927) 야근 지수](https://github.com/sadocode/PS/tree/main/programmers/Level3/12927)
 - [(43162) 네트워크](https://github.com/sadocode/PS/tree/main/programmers/Level3/43162)
 - [(43163) 단어 변환](https://github.com/sadocode/PS/tree/main/programmers/Level3/43163)
+- [(49189) 가장 먼 노드](https://github.com/sadocode/PS/tree/main/programmers/Level3/49189)
   
 ---
 
