@@ -16,6 +16,7 @@
 - [(49189) 가장 먼 노드](https://github.com/sadocode/PS/tree/main/programmers/Level3/49189)
 - [(43164) 여행경로](https://github.com/sadocode/PS/tree/main/programmers/Level3/43164)
 - [(43105) 정수 삼각형](https://github.com/sadocode/PS/tree/main/programmers/Level3/43105)
+- [(42898) 등굣길](https://github.com/sadocode/PS/tree/main/programmers/Level3/42898)
 
 ### Level 2
 - [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/programmers/Level2/42888)
@@ -160,6 +161,7 @@
 
 ### 동적계획법(DP)
 - [(43105) 정수 삼각형](https://github.com/sadocode/PS/tree/main/programmers/Level3/43105)
+- [(42898) 등굣길](https://github.com/sadocode/PS/tree/main/programmers/Level3/42898)
   
 ---
 
@@ -227,6 +229,7 @@
 - [(131701) 연속 부분 수열 합의 개수](https://github.com/sadocode/PS/tree/main/programmers/Level2/131701)
 - [(12978) 배달](https://github.com/sadocode/PS/tree/main/programmers/Level2/12978)
 - [(43105) 정수 삼각형](https://github.com/sadocode/PS/tree/main/programmers/Level3/43105)
+- [(42898) 등굣길](https://github.com/sadocode/PS/tree/main/programmers/Level3/42898)
   
 ---
 
