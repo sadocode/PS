@@ -64,6 +64,7 @@
 - [(77485) 행렬 테두리 회전하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/77485)
 - [(1844) 게임 맵 최단거리](https://github.com/sadocode/PS/tree/main/programmers/Level2/1844)
 - [(131701) 연속 부분 수열 합의 개수](https://github.com/sadocode/PS/tree/main/programmers/Level2/131701)
+- [(12978) 배달](https://github.com/sadocode/PS/tree/main/programmers/Level2/12978)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -151,6 +152,13 @@
 ### 비트연산
 - [(77885) 2개 이하로 다른 비트](https://github.com/sadocode/PS/tree/main/programmers/Level2/77885)
 
+### 다익스트라 알고리즘
+- [(12978) 배달](https://github.com/sadocode/PS/tree/main/programmers/Level2/12978)
+
+### 에라토스테네스의 체
+- [(42839) 소수 찾기](https://github.com/sadocode/PS/tree/main/programmers/Level2/42839)
+
+  
 ---
 
 ## 2022
@@ -215,6 +223,7 @@
 - [(1844) 게임 맵 최단거리](https://github.com/sadocode/PS/tree/main/programmers/Level2/1844)
 - [(43164) 여행경로](https://github.com/sadocode/PS/tree/main/programmers/Level3/43164)
 - [(131701) 연속 부분 수열 합의 개수](https://github.com/sadocode/PS/tree/main/programmers/Level2/131701)
+- [(12978) 배달](https://github.com/sadocode/PS/tree/main/programmers/Level2/12978)
   
 ---
 
