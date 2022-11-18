@@ -68,6 +68,7 @@
 - [(131701) 연속 부분 수열 합의 개수](https://github.com/sadocode/PS/tree/main/programmers/Level2/131701)
 - [(12978) 배달](https://github.com/sadocode/PS/tree/main/programmers/Level2/12978)
 - [(42626) 더 맵게](https://github.com/sadocode/PS/tree/main/programmers/Level2/42626)
+- [(132265) 롤케이크 자르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/132265)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -114,6 +115,7 @@
 - [(42577) 전화번호 목록](https://github.com/sadocode/PS/tree/main/programmers/Level2/42577)
 - [(42578) 위장](https://github.com/sadocode/PS/tree/main/programmers/Level2/42578)
 - [(42579) 베스트앨범](https://github.com/sadocode/PS/tree/main/programmers/Level3/42579)
+- [(132265) 롤케이크 자르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/132265)
 
 ### 그리드
 - [(12979) 기지국 설치](https://github.com/sadocode/PS/tree/main/programmers/Level3/12979)
@@ -238,6 +240,7 @@
 - [(42898) 등굣길](https://github.com/sadocode/PS/tree/main/programmers/Level3/42898)
 - [(42628) 이중우선순위큐](https://github.com/sadocode/PS/tree/main/programmers/Level3/42628)
 - [(42626) 더 맵게](https://github.com/sadocode/PS/tree/main/programmers/Level2/42626)
+- [(132265) 롤케이크 자르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/132265)
   
 ---
 
