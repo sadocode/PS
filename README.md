@@ -67,6 +67,7 @@
 - [(1844) 게임 맵 최단거리](https://github.com/sadocode/PS/tree/main/programmers/Level2/1844)
 - [(131701) 연속 부분 수열 합의 개수](https://github.com/sadocode/PS/tree/main/programmers/Level2/131701)
 - [(12978) 배달](https://github.com/sadocode/PS/tree/main/programmers/Level2/12978)
+- [(42626) 더 맵게](https://github.com/sadocode/PS/tree/main/programmers/Level2/42626)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -166,6 +167,7 @@
 
 ### 힙 (heap)
 - [(42628) 이중우선순위큐](https://github.com/sadocode/PS/tree/main/programmers/Level3/42628)
+- [(42626) 더 맵게](https://github.com/sadocode/PS/tree/main/programmers/Level2/42626)
   
 ---
 
@@ -235,6 +237,7 @@
 - [(43105) 정수 삼각형](https://github.com/sadocode/PS/tree/main/programmers/Level3/43105)
 - [(42898) 등굣길](https://github.com/sadocode/PS/tree/main/programmers/Level3/42898)
 - [(42628) 이중우선순위큐](https://github.com/sadocode/PS/tree/main/programmers/Level3/42628)
+- [(42626) 더 맵게](https://github.com/sadocode/PS/tree/main/programmers/Level2/42626)
   
 ---
 
