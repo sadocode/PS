@@ -69,6 +69,7 @@
 - [(12978) 배달](https://github.com/sadocode/PS/tree/main/programmers/Level2/12978)
 - [(42626) 더 맵게](https://github.com/sadocode/PS/tree/main/programmers/Level2/42626)
 - [(132265) 롤케이크 자르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/132265)
+- [(12923) 숫자 블록](https://github.com/sadocode/PS/tree/main/programmers/Level2/12923)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -241,6 +242,7 @@
 - [(42628) 이중우선순위큐](https://github.com/sadocode/PS/tree/main/programmers/Level3/42628)
 - [(42626) 더 맵게](https://github.com/sadocode/PS/tree/main/programmers/Level2/42626)
 - [(132265) 롤케이크 자르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/132265)
+- [(12923) 숫자 블록](https://github.com/sadocode/PS/tree/main/programmers/Level2/12923)
   
 ---
 
