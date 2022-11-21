@@ -18,6 +18,7 @@
 - [(43105) 정수 삼각형](https://github.com/sadocode/PS/tree/main/programmers/Level3/43105)
 - [(42898) 등굣길](https://github.com/sadocode/PS/tree/main/programmers/Level3/42898)
 - [(42628) 이중우선순위큐](https://github.com/sadocode/PS/tree/main/programmers/Level3/42628)
+- [(42627) 디스크 컨트롤러](https://github.com/sadocode/PS/tree/main/programmers/Level3/42627)
 
 ### Level 2
 - [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/programmers/Level2/42888)
@@ -154,6 +155,7 @@
 - [(12911) 다음 큰 숫자](https://github.com/sadocode/PS/tree/main/programmers/Level2/12911)
 - [(92341) 주차 요금 계산](https://github.com/sadocode/PS/tree/main/programmers/Level2/92341)
 - [(12987) 숫자 게임](https://github.com/sadocode/PS/tree/main/programmers/Level3/12987)
+- [(42627) 디스크 컨트롤러](https://github.com/sadocode/PS/tree/main/programmers/Level3/42627)
 
 ### 비트연산
 - [(77885) 2개 이하로 다른 비트](https://github.com/sadocode/PS/tree/main/programmers/Level2/77885)
@@ -171,6 +173,7 @@
 ### 힙 (heap)
 - [(42628) 이중우선순위큐](https://github.com/sadocode/PS/tree/main/programmers/Level3/42628)
 - [(42626) 더 맵게](https://github.com/sadocode/PS/tree/main/programmers/Level2/42626)
+- [(42627) 디스크 컨트롤러](https://github.com/sadocode/PS/tree/main/programmers/Level3/42627)
   
 ---
 
@@ -243,6 +246,7 @@
 - [(42626) 더 맵게](https://github.com/sadocode/PS/tree/main/programmers/Level2/42626)
 - [(132265) 롤케이크 자르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/132265)
 - [(12923) 숫자 블록](https://github.com/sadocode/PS/tree/main/programmers/Level2/12923)
+- [(42627) 디스크 컨트롤러](https://github.com/sadocode/PS/tree/main/programmers/Level3/42627)
   
 ---
 
