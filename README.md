@@ -19,6 +19,7 @@
 - [(42898) 등굣길](https://github.com/sadocode/PS/tree/main/programmers/Level3/42898)
 - [(42628) 이중우선순위큐](https://github.com/sadocode/PS/tree/main/programmers/Level3/42628)
 - [(42627) 디스크 컨트롤러](https://github.com/sadocode/PS/tree/main/programmers/Level3/42627)
+- [(12904) 가장 긴 팰린드롬](https://github.com/sadocode/PS/tree/main/programmers/Level3/12904)
 
 ### Level 2
 - [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/programmers/Level2/42888)
@@ -247,6 +248,7 @@
 - [(132265) 롤케이크 자르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/132265)
 - [(12923) 숫자 블록](https://github.com/sadocode/PS/tree/main/programmers/Level2/12923)
 - [(42627) 디스크 컨트롤러](https://github.com/sadocode/PS/tree/main/programmers/Level3/42627)
+- [(12904) 가장 긴 팰린드롬](https://github.com/sadocode/PS/tree/main/programmers/Level3/12904)
   
 ---
 
