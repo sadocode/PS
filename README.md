@@ -20,6 +20,7 @@
 - [(42628) 이중우선순위큐](https://github.com/sadocode/PS/tree/main/programmers/Level3/42628)
 - [(42627) 디스크 컨트롤러](https://github.com/sadocode/PS/tree/main/programmers/Level3/42627)
 - [(12904) 가장 긴 팰린드롬](https://github.com/sadocode/PS/tree/main/programmers/Level3/12904)
+- [(12920) 선입 선출 스케줄링](https://github.com/sadocode/PS/tree/main/programmers/Level3/12920)
 
 ### Level 2
 - [(42888) 오픈채팅방](https://github.com/sadocode/PS/tree/main/programmers/Level2/42888)
@@ -175,6 +176,9 @@
 - [(42628) 이중우선순위큐](https://github.com/sadocode/PS/tree/main/programmers/Level3/42628)
 - [(42626) 더 맵게](https://github.com/sadocode/PS/tree/main/programmers/Level2/42626)
 - [(42627) 디스크 컨트롤러](https://github.com/sadocode/PS/tree/main/programmers/Level3/42627)
+
+### 이분탐색
+- [(12920) 선입 선출 스케줄링](https://github.com/sadocode/PS/tree/main/programmers/Level3/12920)
   
 ---
 
@@ -249,6 +253,7 @@
 - [(12923) 숫자 블록](https://github.com/sadocode/PS/tree/main/programmers/Level2/12923)
 - [(42627) 디스크 컨트롤러](https://github.com/sadocode/PS/tree/main/programmers/Level3/42627)
 - [(12904) 가장 긴 팰린드롬](https://github.com/sadocode/PS/tree/main/programmers/Level3/12904)
+- [(12920) 선입 선출 스케줄링](https://github.com/sadocode/PS/tree/main/programmers/Level3/12920)
   
 ---
 
