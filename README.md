@@ -81,7 +81,9 @@
 - [(12906) 같은 숫자는 싫어](https://github.com/sadocode/PS/tree/main/programmers/Level1/12906)
 - [(118666) 성격 유형 검사하기](https://github.com/sadocode/PS/tree/main/programmers/Level1/118666)
 - [(86491) 최소직사각형](https://github.com/sadocode/PS/tree/main/programmers/Level1/86491) 
+- [(136798) 기사단원의 무기](https://github.com/sadocode/PS/tree/main/programmers/Level1/136798)
 
+  
 ---
 
 ## leetCode
@@ -254,6 +256,7 @@
 - [(42627) 디스크 컨트롤러](https://github.com/sadocode/PS/tree/main/programmers/Level3/42627)
 - [(12904) 가장 긴 팰린드롬](https://github.com/sadocode/PS/tree/main/programmers/Level3/12904)
 - [(12920) 선입 선출 스케줄링](https://github.com/sadocode/PS/tree/main/programmers/Level3/12920)
+- [(136798) 기사단원의 무기](https://github.com/sadocode/PS/tree/main/programmers/Level1/136798)
   
 ---
 
