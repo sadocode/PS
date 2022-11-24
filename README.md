@@ -82,7 +82,7 @@
 - [(118666) 성격 유형 검사하기](https://github.com/sadocode/PS/tree/main/programmers/Level1/118666)
 - [(86491) 최소직사각형](https://github.com/sadocode/PS/tree/main/programmers/Level1/86491) 
 - [(136798) 기사단원의 무기](https://github.com/sadocode/PS/tree/main/programmers/Level1/136798)
-
+- [(133502) 햄버거 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level1/133502)
   
 ---
 
