@@ -83,6 +83,7 @@
 - [(86491) 최소직사각형](https://github.com/sadocode/PS/tree/main/programmers/Level1/86491) 
 - [(136798) 기사단원의 무기](https://github.com/sadocode/PS/tree/main/programmers/Level1/136798)
 - [(133502) 햄버거 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level1/133502)
+- [(138477) 명예의 전당](https://github.com/sadocode/PS/tree/main/programmers/Level1/138477)
   
 ---
 
@@ -257,6 +258,7 @@
 - [(12904) 가장 긴 팰린드롬](https://github.com/sadocode/PS/tree/main/programmers/Level3/12904)
 - [(12920) 선입 선출 스케줄링](https://github.com/sadocode/PS/tree/main/programmers/Level3/12920)
 - [(136798) 기사단원의 무기](https://github.com/sadocode/PS/tree/main/programmers/Level1/136798)
+- [(138477) 명예의 전당](https://github.com/sadocode/PS/tree/main/programmers/Level1/138477)
   
 ---
 
