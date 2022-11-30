@@ -73,6 +73,7 @@
 - [(42626) 더 맵게](https://github.com/sadocode/PS/tree/main/programmers/Level2/42626)
 - [(132265) 롤케이크 자르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/132265)
 - [(12923) 숫자 블록](https://github.com/sadocode/PS/tree/main/programmers/Level2/12923)
+- [(60057) 문자열 압축](https://github.com/sadocode/PS/tree/main/programmers/Level2/60057)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -259,6 +260,7 @@
 - [(12920) 선입 선출 스케줄링](https://github.com/sadocode/PS/tree/main/programmers/Level3/12920)
 - [(136798) 기사단원의 무기](https://github.com/sadocode/PS/tree/main/programmers/Level1/136798)
 - [(138477) 명예의 전당](https://github.com/sadocode/PS/tree/main/programmers/Level1/138477)
+- [(60057) 문자열 압축](https://github.com/sadocode/PS/tree/main/programmers/Level2/60057)
   
 ---
 
