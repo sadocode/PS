@@ -76,6 +76,7 @@
 - [(60057) 문자열 압축](https://github.com/sadocode/PS/tree/main/programmers/Level2/60057)
 - [(86971) 전력망을 둘로 나누기](https://github.com/sadocode/PS/tree/main/programmers/Level2/86971)
 - [(68645) 삼각 달팽이](https://github.com/sadocode/PS/tree/main/programmers/Level2/68645)
+- [(138476) 귤 고르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/138476)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -165,6 +166,7 @@
 - [(92341) 주차 요금 계산](https://github.com/sadocode/PS/tree/main/programmers/Level2/92341)
 - [(12987) 숫자 게임](https://github.com/sadocode/PS/tree/main/programmers/Level3/12987)
 - [(42627) 디스크 컨트롤러](https://github.com/sadocode/PS/tree/main/programmers/Level3/42627)
+- [(138476) 귤 고르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/138476)
 
 ### 비트연산
 - [(77885) 2개 이하로 다른 비트](https://github.com/sadocode/PS/tree/main/programmers/Level2/77885)
@@ -266,6 +268,7 @@
 - [(60057) 문자열 압축](https://github.com/sadocode/PS/tree/main/programmers/Level2/60057)
 - [(86971) 전력망을 둘로 나누기](https://github.com/sadocode/PS/tree/main/programmers/Level2/86971)
 - [(68645) 삼각 달팽이](https://github.com/sadocode/PS/tree/main/programmers/Level2/68645)
+- [(138476) 귤 고르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/138476)
   
 ---
 
