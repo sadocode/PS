@@ -77,6 +77,7 @@
 - [(86971) 전력망을 둘로 나누기](https://github.com/sadocode/PS/tree/main/programmers/Level2/86971)
 - [(68645) 삼각 달팽이](https://github.com/sadocode/PS/tree/main/programmers/Level2/68645)
 - [(138476) 귤 고르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/138476)
+- [(140107) 점 찍기](https://github.com/sadocode/PS/tree/main/programmers/Level2/140107)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -269,6 +270,7 @@
 - [(86971) 전력망을 둘로 나누기](https://github.com/sadocode/PS/tree/main/programmers/Level2/86971)
 - [(68645) 삼각 달팽이](https://github.com/sadocode/PS/tree/main/programmers/Level2/68645)
 - [(138476) 귤 고르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/138476)
+- [(140107) 점 찍기](https://github.com/sadocode/PS/tree/main/programmers/Level2/140107)
   
 ---
 
