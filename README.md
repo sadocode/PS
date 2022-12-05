@@ -89,6 +89,7 @@
 - [(136798) 기사단원의 무기](https://github.com/sadocode/PS/tree/main/programmers/Level1/136798)
 - [(133502) 햄버거 만들기](https://github.com/sadocode/PS/tree/main/programmers/Level1/133502)
 - [(138477) 명예의 전당](https://github.com/sadocode/PS/tree/main/programmers/Level1/138477)
+- [(134240) 푸드 파이트 대회](https://github.com/sadocode/PS/tree/main/programmers/Level1/134240)
   
 ---
 
@@ -271,6 +272,7 @@
 - [(68645) 삼각 달팽이](https://github.com/sadocode/PS/tree/main/programmers/Level2/68645)
 - [(138476) 귤 고르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/138476)
 - [(140107) 점 찍기](https://github.com/sadocode/PS/tree/main/programmers/Level2/140107)
+- [(134240) 푸드 파이트 대회](https://github.com/sadocode/PS/tree/main/programmers/Level1/134240)
   
 ---
 
