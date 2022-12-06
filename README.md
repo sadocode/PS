@@ -78,6 +78,7 @@
 - [(68645) 삼각 달팽이](https://github.com/sadocode/PS/tree/main/programmers/Level2/68645)
 - [(138476) 귤 고르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/138476)
 - [(140107) 점 찍기](https://github.com/sadocode/PS/tree/main/programmers/Level2/140107)
+- [(135807) 숫자 카드 나누기](https://github.com/sadocode/PS/tree/main/programmers/Level2/135807)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -277,6 +278,7 @@
 - [(134240) 푸드 파이트 대회](https://github.com/sadocode/PS/tree/main/programmers/Level1/134240)
 - [(140108) 문자열 나누기](https://github.com/sadocode/PS/tree/main/programmers/Level1/140108)
 - [(92334) 신고 결과 받기](https://github.com/sadocode/PS/tree/main/programmers/Level1/92334)
+- [(135807) 숫자 카드 나누기](https://github.com/sadocode/PS/tree/main/programmers/Level2/135807)
   
 ---
 
