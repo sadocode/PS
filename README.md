@@ -91,6 +91,7 @@
 - [(138477) 명예의 전당](https://github.com/sadocode/PS/tree/main/programmers/Level1/138477)
 - [(134240) 푸드 파이트 대회](https://github.com/sadocode/PS/tree/main/programmers/Level1/134240)
 - [(140108) 문자열 나누기](https://github.com/sadocode/PS/tree/main/programmers/Level1/140108)
+- [(92334) 신고 결과 받기](https://github.com/sadocode/PS/tree/main/programmers/Level1/92334)
   
 ---
 
@@ -275,6 +276,7 @@
 - [(140107) 점 찍기](https://github.com/sadocode/PS/tree/main/programmers/Level2/140107)
 - [(134240) 푸드 파이트 대회](https://github.com/sadocode/PS/tree/main/programmers/Level1/134240)
 - [(140108) 문자열 나누기](https://github.com/sadocode/PS/tree/main/programmers/Level1/140108)
+- [(92334) 신고 결과 받기](https://github.com/sadocode/PS/tree/main/programmers/Level1/92334)
   
 ---
 
