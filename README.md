@@ -79,6 +79,7 @@
 - [(138476) 귤 고르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/138476)
 - [(140107) 점 찍기](https://github.com/sadocode/PS/tree/main/programmers/Level2/140107)
 - [(135807) 숫자 카드 나누기](https://github.com/sadocode/PS/tree/main/programmers/Level2/135807)
+- [(68936) 쿼드압축 후 개수세기](https://github.com/sadocode/PS/tree/main/programmers/Level2/68936)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -279,6 +280,7 @@
 - [(140108) 문자열 나누기](https://github.com/sadocode/PS/tree/main/programmers/Level1/140108)
 - [(92334) 신고 결과 받기](https://github.com/sadocode/PS/tree/main/programmers/Level1/92334)
 - [(135807) 숫자 카드 나누기](https://github.com/sadocode/PS/tree/main/programmers/Level2/135807)
+- [(68936) 쿼드압축 후 개수세기](https://github.com/sadocode/PS/tree/main/programmers/Level2/68936)
   
 ---
 
