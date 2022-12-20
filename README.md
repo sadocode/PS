@@ -83,6 +83,8 @@
 - [(92335) k진수에서 소수 개수 구하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/92335)
 - [(142085) 디펜스 게임](https://github.com/sadocode/PS/tree/main/programmers/Level2/142085)
 - [(131130) 혼자 놀기의 달인](https://github.com/sadocode/PS/tree/main/programmers/Level2/131130)
+- [(134239) 우박수열 정적분](https://github.com/sadocode/PS/tree/main/programmers/Level2/134239)
+
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -287,6 +289,7 @@
 - [(92335) k진수에서 소수 개수 구하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/92335)
 - [(142085) 디펜스 게임](https://github.com/sadocode/PS/tree/main/programmers/Level2/142085)
 - [(131130) 혼자 놀기의 달인](https://github.com/sadocode/PS/tree/main/programmers/Level2/131130)
+- [(134239) 우박수열 정적분](https://github.com/sadocode/PS/tree/main/programmers/Level2/134239)
   
 ---
 
