@@ -99,6 +99,7 @@
 - [(134240) 푸드 파이트 대회](https://github.com/sadocode/PS/tree/main/programmers/Level1/134240)
 - [(140108) 문자열 나누기](https://github.com/sadocode/PS/tree/main/programmers/Level1/140108)
 - [(92334) 신고 결과 받기](https://github.com/sadocode/PS/tree/main/programmers/Level1/92334)
+- [(147355) 크기가 작은 부분 문자열](https://github.com/sadocode/PS/tree/main/programmers/Level1/147355)
   
 ---
 
@@ -290,6 +291,9 @@
 - [(142085) 디펜스 게임](https://github.com/sadocode/PS/tree/main/programmers/Level2/142085)
 - [(131130) 혼자 놀기의 달인](https://github.com/sadocode/PS/tree/main/programmers/Level2/131130)
 - [(134239) 우박수열 정적분](https://github.com/sadocode/PS/tree/main/programmers/Level2/134239)
+  
+## 2023
+- [(147355) 크기가 작은 부분 문자열](https://github.com/sadocode/PS/tree/main/programmers/Level1/147355)
   
 ---
 
