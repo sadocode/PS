@@ -84,7 +84,7 @@
 - [(142085) 디펜스 게임](https://github.com/sadocode/PS/tree/main/programmers/Level2/142085)
 - [(131130) 혼자 놀기의 달인](https://github.com/sadocode/PS/tree/main/programmers/Level2/131130)
 - [(134239) 우박수열 정적분](https://github.com/sadocode/PS/tree/main/programmers/Level2/134239)
-
+- [(147354) 테이블 해시 함수](https://github.com/sadocode/PS/tree/main/programmers/Level2/147354)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -179,9 +179,11 @@
 - [(12987) 숫자 게임](https://github.com/sadocode/PS/tree/main/programmers/Level3/12987)
 - [(42627) 디스크 컨트롤러](https://github.com/sadocode/PS/tree/main/programmers/Level3/42627)
 - [(138476) 귤 고르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/138476)
+- [(147354) 테이블 해시 함수](https://github.com/sadocode/PS/tree/main/programmers/Level2/147354)
 
 ### 비트연산
 - [(77885) 2개 이하로 다른 비트](https://github.com/sadocode/PS/tree/main/programmers/Level2/77885)
+- [(147354) 테이블 해시 함수](https://github.com/sadocode/PS/tree/main/programmers/Level2/147354)
 
 ### 다익스트라 알고리즘
 - [(12978) 배달](https://github.com/sadocode/PS/tree/main/programmers/Level2/12978)
@@ -294,6 +296,7 @@
   
 ## 2023
 - [(147355) 크기가 작은 부분 문자열](https://github.com/sadocode/PS/tree/main/programmers/Level1/147355)
+- [(147354) 테이블 해시 함수](https://github.com/sadocode/PS/tree/main/programmers/Level2/147354)
   
 ---
 
