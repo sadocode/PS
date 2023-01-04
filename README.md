@@ -100,6 +100,7 @@
 - [(140108) 문자열 나누기](https://github.com/sadocode/PS/tree/main/programmers/Level1/140108)
 - [(92334) 신고 결과 받기](https://github.com/sadocode/PS/tree/main/programmers/Level1/92334)
 - [(147355) 크기가 작은 부분 문자열](https://github.com/sadocode/PS/tree/main/programmers/Level1/147355)
+- [(135808) 과일 장수](https://github.com/sadocode/PS/tree/main/programmers/Level1/135808)
   
 ---
 
@@ -297,6 +298,7 @@
 ## 2023
 - [(147355) 크기가 작은 부분 문자열](https://github.com/sadocode/PS/tree/main/programmers/Level1/147355)
 - [(147354) 테이블 해시 함수](https://github.com/sadocode/PS/tree/main/programmers/Level2/147354)
+- [(135808) 과일 장수](https://github.com/sadocode/PS/tree/main/programmers/Level1/135808)
   
 ---
 
