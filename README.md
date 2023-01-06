@@ -101,6 +101,7 @@
 - [(92334) 신고 결과 받기](https://github.com/sadocode/PS/tree/main/programmers/Level1/92334)
 - [(147355) 크기가 작은 부분 문자열](https://github.com/sadocode/PS/tree/main/programmers/Level1/147355)
 - [(135808) 과일 장수](https://github.com/sadocode/PS/tree/main/programmers/Level1/135808)
+- [(150370) 개인정보 수집 유효기간](https://github.com/sadocode/PS/tree/main/programmers/Level1/150370)
   
 ---
 
@@ -181,6 +182,7 @@
 - [(42627) 디스크 컨트롤러](https://github.com/sadocode/PS/tree/main/programmers/Level3/42627)
 - [(138476) 귤 고르기](https://github.com/sadocode/PS/tree/main/programmers/Level2/138476)
 - [(147354) 테이블 해시 함수](https://github.com/sadocode/PS/tree/main/programmers/Level2/147354)
+- [(150370) 개인정보 수집 유효기간](https://github.com/sadocode/PS/tree/main/programmers/Level1/150370)
 
 ### 비트연산
 - [(77885) 2개 이하로 다른 비트](https://github.com/sadocode/PS/tree/main/programmers/Level2/77885)
@@ -299,6 +301,7 @@
 - [(147355) 크기가 작은 부분 문자열](https://github.com/sadocode/PS/tree/main/programmers/Level1/147355)
 - [(147354) 테이블 해시 함수](https://github.com/sadocode/PS/tree/main/programmers/Level2/147354)
 - [(135808) 과일 장수](https://github.com/sadocode/PS/tree/main/programmers/Level1/135808)
+- [(150370) 개인정보 수집 유효기간](https://github.com/sadocode/PS/tree/main/programmers/Level1/150370)
   
 ---
 
