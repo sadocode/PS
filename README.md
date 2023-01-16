@@ -85,6 +85,7 @@
 - [(131130) 혼자 놀기의 달인](https://github.com/sadocode/PS/tree/main/programmers/Level2/131130)
 - [(134239) 우박수열 정적분](https://github.com/sadocode/PS/tree/main/programmers/Level2/134239)
 - [(147354) 테이블 해시 함수](https://github.com/sadocode/PS/tree/main/programmers/Level2/147354)
+- [(148653) 마법의 엘리베이터](https://github.com/sadocode/PS/tree/main/programmers/Level2/148653)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -167,6 +168,7 @@
 - [(60058) 괄호 변환](https://github.com/sadocode/PS/tree/main/programmers/Level2/60058)
 - [(87946) 피로도](https://github.com/sadocode/PS/tree/main/programmers/Level2/87946)
 - [(42839) 소수 찾기](https://github.com/sadocode/PS/tree/main/programmers/Level2/42839)
+- [(148653) 마법의 엘리베이터](https://github.com/sadocode/PS/tree/main/programmers/Level2/148653)
 
 ### 완전탐색
 - [(84512) 모음 사전](https://github.com/sadocode/PS/tree/main/programmers/Level2/84512)
@@ -302,6 +304,7 @@
 - [(147354) 테이블 해시 함수](https://github.com/sadocode/PS/tree/main/programmers/Level2/147354)
 - [(135808) 과일 장수](https://github.com/sadocode/PS/tree/main/programmers/Level1/135808)
 - [(150370) 개인정보 수집 유효기간](https://github.com/sadocode/PS/tree/main/programmers/Level1/150370)
+- [(148653) 마법의 엘리베이터](https://github.com/sadocode/PS/tree/main/programmers/Level2/148653)
   
 ---
 
