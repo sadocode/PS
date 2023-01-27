@@ -86,6 +86,7 @@
 - [(134239) 우박수열 정적분](https://github.com/sadocode/PS/tree/main/programmers/Level2/134239)
 - [(147354) 테이블 해시 함수](https://github.com/sadocode/PS/tree/main/programmers/Level2/147354)
 - [(148653) 마법의 엘리베이터](https://github.com/sadocode/PS/tree/main/programmers/Level2/148653)
+- [(154538) 숫자 변환하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/154538)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -199,6 +200,7 @@
 ### 동적계획법(DP)
 - [(43105) 정수 삼각형](https://github.com/sadocode/PS/tree/main/programmers/Level3/43105)
 - [(42898) 등굣길](https://github.com/sadocode/PS/tree/main/programmers/Level3/42898)
+- [(154538) 숫자 변환하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/154538)
 
 ### 힙 (heap)
 - [(42628) 이중우선순위큐](https://github.com/sadocode/PS/tree/main/programmers/Level3/42628)
@@ -305,6 +307,7 @@
 - [(135808) 과일 장수](https://github.com/sadocode/PS/tree/main/programmers/Level1/135808)
 - [(150370) 개인정보 수집 유효기간](https://github.com/sadocode/PS/tree/main/programmers/Level1/150370)
 - [(148653) 마법의 엘리베이터](https://github.com/sadocode/PS/tree/main/programmers/Level2/148653)
+- [(154538) 숫자 변환하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/154538)
   
 ---
 
