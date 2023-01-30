@@ -104,6 +104,7 @@
 - [(147355) 크기가 작은 부분 문자열](https://github.com/sadocode/PS/tree/main/programmers/Level1/147355)
 - [(135808) 과일 장수](https://github.com/sadocode/PS/tree/main/programmers/Level1/135808)
 - [(150370) 개인정보 수집 유효기간](https://github.com/sadocode/PS/tree/main/programmers/Level1/150370)
+- [(142086) 가장 가까운 글자](https://github.com/sadocode/PS/tree/main/programmers/Level1/142080)
   
 ---
 
@@ -308,6 +309,7 @@
 - [(150370) 개인정보 수집 유효기간](https://github.com/sadocode/PS/tree/main/programmers/Level1/150370)
 - [(148653) 마법의 엘리베이터](https://github.com/sadocode/PS/tree/main/programmers/Level2/148653)
 - [(154538) 숫자 변환하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/154538)
+- [(142086) 가장 가까운 글자](https://github.com/sadocode/PS/tree/main/programmers/Level1/142080)
   
 ---
 
