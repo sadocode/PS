@@ -87,6 +87,7 @@
 - [(147354) 테이블 해시 함수](https://github.com/sadocode/PS/tree/main/programmers/Level2/147354)
 - [(148653) 마법의 엘리베이터](https://github.com/sadocode/PS/tree/main/programmers/Level2/148653)
 - [(154538) 숫자 변환하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/154538)
+- [(154539) 뒤에 있는 큰 수 찾기](https://github.com/sadocode/PS/tree/main/programmers/Level2/154539)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -310,6 +311,7 @@
 - [(148653) 마법의 엘리베이터](https://github.com/sadocode/PS/tree/main/programmers/Level2/148653)
 - [(154538) 숫자 변환하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/154538)
 - [(142086) 가장 가까운 글자](https://github.com/sadocode/PS/tree/main/programmers/Level1/142080)
+- [(154539) 뒤에 있는 큰 수 찾기](https://github.com/sadocode/PS/tree/main/programmers/Level2/154539)
   
 ---
 
