@@ -89,6 +89,7 @@
 - [(154538) 숫자 변환하기](https://github.com/sadocode/PS/tree/main/programmers/Level2/154538)
 - [(154539) 뒤에 있는 큰 수 찾기](https://github.com/sadocode/PS/tree/main/programmers/Level2/154539)
 - [(154540) 무인도 여행](https://github.com/sadocode/PS/tree/main/programmers/Level2/154540)
+- [(152996) 시소 짝꿍](https://github.com/sadocode/PS/tree/main/programmers/Level2/152996)
 
 ### Level 1
 - [(81301) 숫자 문자열과 영단어](https://github.com/sadocode/PS/tree/main/programmers/Level1/81301)
@@ -316,6 +317,7 @@
 - [(142086) 가장 가까운 글자](https://github.com/sadocode/PS/tree/main/programmers/Level1/142080)
 - [(154539) 뒤에 있는 큰 수 찾기](https://github.com/sadocode/PS/tree/main/programmers/Level2/154539)
 - [(154540) 무인도 여행](https://github.com/sadocode/PS/tree/main/programmers/Level2/154540)
+- [(152996) 시소 짝꿍](https://github.com/sadocode/PS/tree/main/programmers/Level2/152996)
   
 ---
 
