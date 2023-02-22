@@ -108,6 +108,7 @@
 - [(135808) 과일 장수](https://github.com/sadocode/PS/tree/main/programmers/Level1/135808)
 - [(150370) 개인정보 수집 유효기간](https://github.com/sadocode/PS/tree/main/programmers/Level1/150370)
 - [(142086) 가장 가까운 글자](https://github.com/sadocode/PS/tree/main/programmers/Level1/142080)
+- [(155652) 둘만의 암호](https://github.com/sadocode/PS/tree/main/programmers/Level1/155652)
   
 ---
 
@@ -318,6 +319,7 @@
 - [(154539) 뒤에 있는 큰 수 찾기](https://github.com/sadocode/PS/tree/main/programmers/Level2/154539)
 - [(154540) 무인도 여행](https://github.com/sadocode/PS/tree/main/programmers/Level2/154540)
 - [(152996) 시소 짝꿍](https://github.com/sadocode/PS/tree/main/programmers/Level2/152996)
+- [(155652) 둘만의 암호](https://github.com/sadocode/PS/tree/main/programmers/Level1/155652)
   
 ---
 
