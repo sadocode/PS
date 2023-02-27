@@ -110,6 +110,7 @@
 - [(142086) 가장 가까운 글자](https://github.com/sadocode/PS/tree/main/programmers/Level1/142080)
 - [(155652) 둘만의 암호](https://github.com/sadocode/PS/tree/main/programmers/Level1/155652)
 - [(159994) 카드 뭉치](https://github.com/sadocode/PS/tree/main/programmers/Level1/159994)
+- [(160586) 대충 만든 자판](https://github.com/sadocode/PS/tree/main/programmers/Level1/160586)
   
 ---
 
@@ -322,6 +323,7 @@
 - [(152996) 시소 짝꿍](https://github.com/sadocode/PS/tree/main/programmers/Level2/152996)
 - [(155652) 둘만의 암호](https://github.com/sadocode/PS/tree/main/programmers/Level1/155652)
 - [(159994) 카드 뭉치](https://github.com/sadocode/PS/tree/main/programmers/Level1/159994)
+- [(160586) 대충 만든 자판](https://github.com/sadocode/PS/tree/main/programmers/Level1/160586)
   
 ---
 
