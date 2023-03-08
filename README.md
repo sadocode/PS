@@ -111,6 +111,7 @@
 - [(155652) 둘만의 암호](https://github.com/sadocode/PS/tree/main/programmers/Level1/155652)
 - [(159994) 카드 뭉치](https://github.com/sadocode/PS/tree/main/programmers/Level1/159994)
 - [(160586) 대충 만든 자판](https://github.com/sadocode/PS/tree/main/programmers/Level1/160586)
+- [(161990) 바탕화면 정리](https://github.com/sadocode/PS/tree/main/programmers/Level1/161990)
   
 ---
 
@@ -324,6 +325,7 @@
 - [(155652) 둘만의 암호](https://github.com/sadocode/PS/tree/main/programmers/Level1/155652)
 - [(159994) 카드 뭉치](https://github.com/sadocode/PS/tree/main/programmers/Level1/159994)
 - [(160586) 대충 만든 자판](https://github.com/sadocode/PS/tree/main/programmers/Level1/160586)
+- [(161990) 바탕화면 정리](https://github.com/sadocode/PS/tree/main/programmers/Level1/161990)
   
 ---
 
